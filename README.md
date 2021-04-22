@@ -9,6 +9,11 @@
 • This is not an open source project so I have not updated the code in this repo. You can visit the above given website to know more about the project. In case of any other details you can reach me by email or over LinkedIn.
 
 
+## Preview
+
+https://user-images.githubusercontent.com/65092456/115705383-16e73e80-a38a-11eb-9bbf-6297cc5ee0e6.mp4
+
+
 ## Introduction
 
 The use of artificial intelligence in sports isn’t a major surprise, given the advancement in technology. However, automated commentary is still a fantasy and the way AI and ML are developing, it could soon be a reality. The development of such a system will change the way of sports broadcasting.  Hence, in this work we have tried to generate a part of automatic ball-by-ball commentary of a cricket match.
