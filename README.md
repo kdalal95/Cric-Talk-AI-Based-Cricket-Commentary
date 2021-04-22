@@ -1,4 +1,4 @@
-# Cric-Talk
+# Cric-Talk- AI Based Cricket commentary
 
 • Deep learning models (Classification and Object Detection using CNN) for automatic generation of text/ audio-based ball by ball commentary of a cricket match.
 
